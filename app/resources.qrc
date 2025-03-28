@@ -1,0 +1,26 @@
+<RCC>
+  <qresource>
+    <file>images/surveillance.ico</file>
+    <file>images/Profile-Avatar-PNG.png</file>
+    <file>images/dashboard.ico</file>
+    <file>images/strive.png</file>
+    <file>images/dashboard.png</file>
+    <file>images/google.png</file>
+    <file>images/logout.png</file>
+    <file>images/menu.ico</file>
+    <file>images/menu.png</file>
+    <file>images/messages.ico</file>
+    <file>images/messages.jpg</file>
+    <file>images/news_741867.png</file>
+    <file>images/notification.png</file>
+    <file>images/notifications.ico</file>
+    <file>images/profile.ico</file>
+    <file>images/profile.jpg</file>
+    <file>images/search.ico</file>
+    <file>images/search.png</file>
+    <file>images/settings.ico</file>
+    <file>images/settings.png</file>
+    <file>images/signout.ico</file>
+    <file>images/testing_4694494.png</file>
+  </qresource>
+</RCC>
